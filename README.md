@@ -37,7 +37,7 @@ This project focuses on analyzing employee attrition and workforce data using Po
 - Data Visualization
 ## Dashboard Preview
 ![HR Analytics Dashboard]
-(Screenshot 2026-11-23 102121.png)
+(Screenshot%202026-11-23%30102121.png)
 
 ## 📊 Key Performance Indicators (KPIs)
 
