@@ -35,10 +35,6 @@ This project focuses on analyzing employee attrition and workforce data using Po
 - DAX
 - Data Modeling
 - Data Visualization
-## Dashboard Preview
-![HR Analytics Dashboard]
-(./ Screenshot%202026-11-23%20102121.png)
-
 ## 📊 Key Performance Indicators (KPIs)
 
 - Total Employees: 1,470
